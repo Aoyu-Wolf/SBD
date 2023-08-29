@@ -1,0 +1,9 @@
+extension["尘封秘籍"]={
+	intro:"",
+	author:"Aoyu傲宇",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["window.jpg","LICENSE","extension.js"],
+	size:"106KB"
+};
